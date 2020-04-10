@@ -40,7 +40,7 @@ body {
   border-radius: 50%;
   /* border: .5rem solid var(--jazz1); */
   overflow: hidden;
-  /* animation: animate 1s linear infinite; */
+  animation: animate 1s linear infinite;
 }
 
 @keyframes animate {
